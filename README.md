@@ -1,16 +1,30 @@
-### Hi there 👋
+<h1 align="center">The Obito Project</h1>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/108415628/200353081-d203863b-af68-4580-8e3d-be3aec3b6d16.png" width="300">
+</p>
 
-<!--
-**theobitoproject/theobitoproject** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About
 
-Here are some ideas to get you started:
+The Obito Project is an initiative to help as many people as possible, specially children, in order to keep the essence of young Obito's spirit.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+If you want to contribute to the Obito Project or you have an idea that might help people, feel free to reach out. Many lines of code are needed to make small contributions to the world.
+
+## Projects
+
+### Chiki
+
+Calculate and visualize Z score to track children's growth. See it in action: [https://asuma.onrender.com/](https://asuma.onrender.com/)
+
+Repositories:
+- [Hiruzen](https://github.com/theobitoproject/hiruzen) (API)
+- [Asuma](https://github.com/theobitoproject/asuma) (Front end)
+
+
+### Kankuro
+
+GO-SDK/CDK to build Airbyte connectors quickly in Golang.
+
+The main goal is start building connectors for NGO's and little foundations that might benefit from data and they still relying on tools like Excel.
+
+Repositories: 
+- [Kankuro](https://github.com/theobitoproject/kankuro)
