@@ -24,7 +24,7 @@ Repositories:
 
 GO-SDK/CDK to build Airbyte connectors quickly in Golang.
 
-The main goal is start building connectors for NGO's and little foundations that might benefit from data and they still relying on tools like Excel.
+The main goal is start building connectors for NGO's and little foundations that might benefit from data but they still relying on tools like Excel.
 
 Repositories: 
 - [Kankuro](https://github.com/theobitoproject/kankuro)
