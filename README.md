@@ -28,3 +28,4 @@ The main goal is start building connectors for NGO's and little foundations that
 
 Repositories: 
 - [Kankuro](https://github.com/theobitoproject/kankuro)
+- [Mongo Destination Connector with Go](https://github.com/theobitoproject/airbyte_destination_mongo)
